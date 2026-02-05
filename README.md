@@ -1,9 +1,9 @@
 🐾 **Furry Friends – Pet Adoption Website**
 
-**Overview**
+**Overview :** 
 Furry Friends is a static website created to promote pet adoption, animal welfare, and community awareness. The website provides information about adoptable pets, responsible pet ownership, and allows users to support the cause through donations.
 
-**Features**
+**Features :**
 - Home page with adoptable pets and navigation
 - About Us page explaining the organization’s mission
 - Animal Welfare page promoting responsible care and adoption
@@ -22,8 +22,8 @@ Furry Friends is a static website created to promote pet adoption, animal welfar
 - animalwelfare.html – Animal Welfare
 - donate.html – Donate
 
-**How to Run**
+**How to Run :**
 Open index.html in any web browser and navigate using the menu links. No setup required.
 
-**Conclusion**
+**Conclusion :**
 Furry Friends is a beginner friendly frontend project that combines web development with social impact by encouraging pet adoption and animal care.
