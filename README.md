@@ -10,13 +10,13 @@ Furry Friends is a static website created to promote pet adoption, animal welfar
 - Donate page with a simple donation form
 - Clean UI with CSS animations and icons
 
-**Technologies Used**
+**Technologies Used :**
 - HTML5
 - CSS3
 - Font Awesome
 - Basic JavaScript
 
-**Pages Included**
+**Pages Included :**
 - index.html – Home
 - about.html – About Us
 - animalwelfare.html – Animal Welfare
