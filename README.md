@@ -27,9 +27,3 @@ Open index.html in any web browser and navigate using the menu links. No setup r
 
 **Conclusion**
 Furry Friends is a beginner friendly frontend project that combines web development with social impact by encouraging pet adoption and animal care.
-
-How to Run
-Open index.html in any web browser and navigate using the menu links. No setup required.
-
-Conclusion
-Furry Friends is a beginner friendly frontend project that combines web development with social impact by encouraging pet adoption and animal care.
